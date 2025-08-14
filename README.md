@@ -2,7 +2,7 @@
 
 Identify a short list of wide receivers most likely to finish **WR1 in 2025** using historical patterns and public NFL data via [`nfl_data_py`].
 
-[![Open In Colab](https://colab.research.google.com/github/bradley-a-mosher/wr1_analysis/blob/main/wr1_analysis.ipynb#scrollTo=0e93a2be)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bradley-a-mosher/wr1_analysis/blob/main/wr1_analysis.ipynb)
 
 ---
 
